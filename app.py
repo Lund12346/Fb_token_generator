@@ -5,7 +5,8 @@ import requests
 APP_ID = st.secrets["APP_ID"]
 APP_SECRET = st.secrets["APP_SECRET"]
 # Jab aap app deploy karenge, wahan ka URL yahan badal dena
-REDIRECT_URI = "https://your-app-name.streamlit.app/" 
+REDIRECT_URI = "https://fbtokengenerator-csjam4sw4kuwjghquihjm4.streamlit.app/"
+
 
 st.title("🚀 FB Token Extractor")
 
